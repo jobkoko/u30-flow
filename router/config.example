@@ -1,0 +1,8 @@
+# Root-owned settings, not a shell script. Do not add quotes around values.
+# Choose exactly one: PROFILE or SUBSCRIPTION_URL_FILE.
+PROFILE=/etc/mu300/vpn/profiles/example/config.yaml
+SUBSCRIPTION_URL_FILE=
+CELLULAR_INTERFACE=sipa_eth0
+POLL_INTERVAL=300
+# Fixed billing UTC offset; 28800 is UTC+08:00 (Asia/Shanghai).
+UTC_OFFSET=28800

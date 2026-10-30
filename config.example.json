@@ -1,0 +1,5 @@
+{
+  "routerHost": "192.168.8.1",
+  "sshUser": "root",
+  "sshPort": 22
+}
